@@ -18,7 +18,7 @@
     "@discordjs/opus": "^0.3.2"
   },
   "repository": {
-    "url": "https://github.com/hydraindia/discord-music"
+    "url": "https://github.com/alexakaka/musicbot-final"
   },
   "license": "MIT",
   "keywords": [
